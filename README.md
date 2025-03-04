@@ -1,6 +1,8 @@
 # Weak-Neural-Variational-Inference_harmonic_elastography
-Weak-Neural-Variational-Inference framework application for a synthetic problem in harmonic elastography.
+Weak-Neural-Variational-Inference framework application for a synthetic problem in harmonic elastography. 
+
 The paper can be found open-access here: The full open-access paper can be found at: https://www.sciencedirect.com/science/article/pii/S0045782524007473
+
 If you are looking for the base Weak-Neural-Variational-Inference framework with application in static elastography, you can find the GitHub page here: https://github.com/pkmtum/Weak-Neural-Variational-Inference
 
 ## Dependencies
